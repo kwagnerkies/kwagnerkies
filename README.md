@@ -13,6 +13,6 @@ DevOps Engineer in Ausbildung | Go • Kubernetes • Docker<br>Fokus auf Automa
 ![](https://github-contributor-stats.vercel.app/api?username=kwagnerkies&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kwagnerkies&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=kwagnerkies&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
